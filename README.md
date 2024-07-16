@@ -8,19 +8,13 @@ Sales data proves to be pivotal in guaging the bussiness strategies of individua
 
 ## Video Demo 
 
-
 https://github.com/user-attachments/assets/3e8e84ea-165d-4467-b4c1-7c4fb65ddb57
-
-
-
 
 
 ## ✨ Key Features
 
-
-
-*Actionable Insights: Delivery of executive summaries, product-wise sales breakdowns, top salesperson data, and sales trends to inform strategic decision-making.
-*Dynamic Data Loading: Efficient utilization of Power BI parameters and MySQL connections to load only necessary sales data, improving performance and responsiveness
+* Actionable Insights: Delivery of executive summaries, product-wise sales breakdowns, top salesperson data, and sales trends to inform strategic decision-making.
+* Dynamic Data Loading: Efficient utilization of Power BI parameters and MySQL connections to load only necessary sales data, improving performance and responsiveness
 
 
 
