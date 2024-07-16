@@ -12,8 +12,9 @@ This project emerged from the need for a crisp and informative dashboard that wi
 ![Screenshot 2024-07-16 150653](https://github.com/user-attachments/assets/54478c72-b7c0-4141-931b-665c93e917d8)
 
 
-## Video Demo 
-https://github.com/user-attachments/assets/cfb30cce-2e1d-4215-b580-0887960e5f59
+## Video Demo
+https://github.com/user-attachments/assets/fa561db2-2f75-4e92-8b31-7ee541545495
+
 
 
 
