@@ -22,10 +22,6 @@ https://github.com/user-attachments/assets/3e8e84ea-165d-4467-b4c1-7c4fb65ddb57
 * Actionable Insights: Providing executive summaries, product-wise sales breakdowns, top salesperson data, and sales trends to inform business decisions.
 
 
-## 𝌭 Data Model
-![Screenshot 2024-07-16 150813](https://github.com/user-attachments/assets/b61a2515-4aaf-4413-935c-674ca3c00db3)
-
-
 
 
 
