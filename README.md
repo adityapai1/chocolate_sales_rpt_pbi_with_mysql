@@ -7,7 +7,11 @@ Sales data proves to be pivotal in guaging the bussiness strategies of individua
 
 
 ## Video Demo 
-https://github.com/user-attachments/assets/cfb30cce-2e1d-4215-b580-0887960e5f59
+
+
+https://github.com/user-attachments/assets/3e8e84ea-165d-4467-b4c1-7c4fb65ddb57
+
+
 
 
 
