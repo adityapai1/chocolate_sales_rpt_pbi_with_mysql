@@ -15,11 +15,12 @@ https://github.com/user-attachments/assets/3e8e84ea-165d-4467-b4c1-7c4fb65ddb57
 
 
 
-## ✨ Key Innovations
-* Data Consolidation: Transforming large, complex sales data into easily understandable metrics.
-* Visual Storytelling: Employing visual elements like charts and graphs to communicate sales insights effectively.
-* Key Metric Focus: Prioritizing essential sales indicators (total sales, boxes, shipments, low box percentage) for clear understanding.
-* Actionable Insights: Providing executive summaries, product-wise sales breakdowns, top salesperson data, and sales trends to inform business decisions.
+## ✨ Key Features
+
+
+
+*Actionable Insights: Delivery of executive summaries, product-wise sales breakdowns, top salesperson data, and sales trends to inform strategic decision-making.
+*Dynamic Data Loading: Efficient utilization of Power BI parameters and MySQL connections to load only necessary sales data, improving performance and responsiveness
 
 
 
